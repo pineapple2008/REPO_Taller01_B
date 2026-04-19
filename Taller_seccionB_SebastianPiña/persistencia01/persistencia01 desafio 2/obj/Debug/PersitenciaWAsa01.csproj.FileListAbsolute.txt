@@ -1,0 +1,34 @@
+C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.exe
+C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.pdb
+C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.exe
+C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.csprojResolveAssemblyReference.cache
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB - copia\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.csprojResolveAssemblyReference.cache
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB - copia\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB - copia\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB - copia\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB - copia\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\2b\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\2b\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\2b\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.csprojResolveAssemblyReference.cache
+C:\Users\calle\Desktop\2b\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\2b\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.pdb
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01\bin\Debug\PersitenciaWAsa01.exe.config
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01\bin\Debug\PersitenciaWAsa01.exe
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01\bin\Debug\PersitenciaWAsa01.pdb
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01\obj\Debug\PersitenciaWAsa01.csproj.AssemblyReference.cache
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01\obj\Debug\PersitenciaWAsa01.csproj.CoreCompileInputs.cache
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01\obj\Debug\PersitenciaWAsa01.exe
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01\obj\Debug\PersitenciaWAsa01.pdb
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 2\bin\Debug\PersitenciaWAsa01.exe.config
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 2\bin\Debug\PersitenciaWAsa01.exe
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 2\bin\Debug\PersitenciaWAsa01.pdb
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 2\obj\Debug\PersitenciaWAsa01.csproj.AssemblyReference.cache
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 2\obj\Debug\PersitenciaWAsa01.csproj.CoreCompileInputs.cache
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 2\obj\Debug\PersitenciaWAsa01.exe
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 2\obj\Debug\PersitenciaWAsa01.pdb

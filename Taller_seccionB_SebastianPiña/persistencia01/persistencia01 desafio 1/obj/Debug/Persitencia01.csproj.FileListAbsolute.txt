@@ -1,0 +1,7 @@
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 1\bin\Debug\PersitenciaWAsa01.exe.config
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 1\bin\Debug\PersitenciaWAsa01.exe
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 1\bin\Debug\PersitenciaWAsa01.pdb
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 1\obj\Debug\Persitencia01.csproj.AssemblyReference.cache
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 1\obj\Debug\Persitencia01.csproj.CoreCompileInputs.cache
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 1\obj\Debug\PersitenciaWAsa01.exe
+C:\Users\PiñaPipi\Desktop\Taller_seccionB_SebastianPiña\persistencia01\persistencia01 desafio 1\obj\Debug\PersitenciaWAsa01.pdb
