@@ -1,0 +1,1 @@
+lblEstado.Text = string.Format("Cargados {0} usuarios.", tabla.Rows.Count);
